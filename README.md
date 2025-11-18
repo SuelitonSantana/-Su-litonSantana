@@ -2,7 +2,7 @@
 # 👋 Olá, Sou Lucas 
 
 - 🎓 Estudante de **Engenharia de Software**
-- 🎨 Focado em **Front-End** com React, TypeScript, HTML e CSS
+- 🎨 Focado em **Front-End** com React, JavaScript TypeScript, HTML e CSS
 - 🐍 Explorando **Python** e **MySQL** para back-end
 - 🚀 Apaixonado por criar soluções completas e interfaces modernas
 
