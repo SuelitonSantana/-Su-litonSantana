@@ -4,7 +4,8 @@
  **Front-End Developer** apaixonado por criar interfaces modernas, responsivas e intuitivas.  
   Transformo ideias em experiências digitais usando **React, JavaScript, HTML, CSS** e um toque de design.
 
-<img src="URL_DA_IMAGEM" width="100%" alt="Front-end banner">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" alt="Front-end developer animation">
+
 
 ---
 
