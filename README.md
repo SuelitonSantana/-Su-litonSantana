@@ -4,7 +4,8 @@
  **Front-End Developer** apaixonado por criar interfaces modernas, responsivas e intuitivas.  
   Transformo ideias em experiências digitais usando **React, JavaScript, HTML, CSS** e um toque de design.
 
- <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" alt="Front-end coding animation">
+ <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Responsive design animation">
+
 
 
 
@@ -16,6 +17,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 
 
 ---
@@ -30,6 +35,6 @@
 ---
 
 ## Contato
-- 💼 [LinkedIn]www.linkedin.com/in/lucassantana040319262
+- [LinkedIn]www.linkedin.com/in/lucassantana040319262
 
--Email: lueveldn@gmail.com
+  -Email: lueveldn@gmail.com
