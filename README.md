@@ -1,10 +1,10 @@
 # -SuelitonSantana
-# 👋 Olá, eu sou o Lucas!
+# 👋 Olá, Sou SuelitonSantana
 
-🎨 **Front-End Developer** apaixonado por criar interfaces modernas, responsivas e intuitivas.  
-🚀 Transformo ideias em experiências digitais usando **React, JavaScript, HTML, CSS** e um toque de design.
+ **Front-End Developer** apaixonado por criar interfaces modernas, responsivas e intuitivas.  
+  Transformo ideias em experiências digitais usando **React, JavaScript, HTML, CSS** e um toque de design.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
+<img src="URL_DA_IMAGEM" width="100%" alt="Front-end banner">
 
 ---
 
@@ -13,17 +13,11 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 ---
 
-## 🌟 Projetos em destaque
-- [Portfólio Pessoal](https://github.com/seuusuario/portfolio)  
-  Site responsivo mostrando meus trabalhos e contato.
-- [Clone do Netflix](https://github.com/seuusuario/netflix-clone)  
-  Interface recriada com React e consumo de API.
-- [Dashboard Interativo](https://github.com/seuusuario/dashboard)  
-  Painel com gráficos dinâmicos e design clean.
 
 ---
 
@@ -33,7 +27,7 @@
 
 ---
 
-## 📫 Contato
+## Contato
 - 💼 [LinkedIn]www.linkedin.com/in/lucassantana040319262
 
-- -Email: lueveldn@gmail.com
+-Email: lueveldn@gmail.com
