@@ -1,8 +1,10 @@
 # -SuelitonSantana
-# 👋 Olá, Sou SuelitonSantana
+# 👋 Olá, Sou Lucas 
 
- **Front-End Developer** apaixonado por criar interfaces modernas, responsivas e intuitivas.  
-  Transformo ideias em experiências digitais usando **React, JavaScript, HTML, CSS** e um toque de design.
+- 🎓 Estudante de **Engenharia de Software**
+- 🎨 Focado em **Front-End** com React, TypeScript, HTML e CSS
+- 🐍 Explorando **Python** e **MySQL** para back-end
+- 🚀 Apaixonado por criar soluções completas e interfaces modernas
 
  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" alt="Responsive design animation">
 
